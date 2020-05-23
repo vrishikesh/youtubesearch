@@ -1,0 +1,15 @@
+{
+  "name": "youtubeclone",
+  "displayName": "Youtube Clone",
+  "expo": {
+    "name": "youtubeclone",
+    "slug": "youtube-clone",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.inspire.youtubeclone",
+      "versionCode": 1
+    },
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
